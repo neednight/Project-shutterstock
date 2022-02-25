@@ -1,1 +1,1 @@
-# Project-shutterstock test webhook
+# Project-shutterstock test
